@@ -1,0 +1,2 @@
+﻿Frank Dominguez;frank@gmail.com;12345;Frank;NNNhhhh;Administración;Estudiante;9:Enero:1955:Masculino
+Antony Inga;tony@gmail.com;12345;Tony;Informatico;Ingeniería;Estudiante;13:Abril:1995:Masculino

@@ -1,0 +1,6 @@
+﻿Tony Inga Atunga;Contador;1;Administración;tecSup;1. tener movilidad
+Tony Inga Atunga;contador;12;Finanzas;tecSup;1: Tener 4 años de experiancia laboral
+Tony Inga Atunga;Vendedor;2;Administración;ACOMETH;1.-  no se requiere experiancia laboral
+Elvis Dominguez;Informatico;2;Administración;Tec;1 para comensar ganas de aprender/:2 tener 2 años de experiencia laboral
+Beck Herras Herrera;fisico;1;Tecnología;Fiis;1 tener movilidad/:2 ganasde trabajar
+Beck Herras Herrera;Adminitrador;1;Finanzas;SEA S.A;1 nada para comensar

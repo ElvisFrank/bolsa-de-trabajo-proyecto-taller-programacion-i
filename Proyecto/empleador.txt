@@ -1,0 +1,3 @@
+Beck Herras Herrera;beck@gmail.com;12345;beck;Fiis;01:Enero:1955:Masculino
+Tony Inga Atunga;inga@gmail.com;12345;Tony02;tecSup;01:Enero:1955:Masculino
+Elvis Dominguez;elvis@gmail.com;12345;elvis;Tec;09:junio:1995:Masculino
